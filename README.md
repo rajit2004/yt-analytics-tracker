@@ -12,11 +12,11 @@
 
 <table>
   <tr>
-    <td><strong>Subscribers Growth</strong><br/><img src="outputs/subs_growth.png" width="350"/></td>
-    <td><strong>Longs vs Shorts Views</strong><br/><img src="outputs/total_views.png" width="350"/></td>
+    <td><strong>Subscribers Growth</strong><br/><img src="screenshots/subs_growth.png" width="350"/></td>
+    <td><strong>Longs vs Shorts Views</strong><br/><img src="screenshots/total_views.png" width="350"/></td>
   </tr>
   <tr>
-    <td><strong>Daily View Deltas</strong><br/><img src="outputs/daily_deltas.png" width="350"/></td>
+    <td><strong>Daily View Deltas</strong><br/><img src="screenshots/daily_deltas.png" width="350"/></td>
     <td><strong>Analytics Report (Excel)</strong><br/>Generated in <code>outputs/analytics_report.xlsx</code></td>
   </tr>
 </table>
