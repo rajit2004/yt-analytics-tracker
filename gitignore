@@ -1,0 +1,28 @@
+# Environment variables - NEVER commit this
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (contain personal channel data)
+daily_data.xlsx
+outputs/analytics_report.xlsx
+
+# Generated charts (regenerated on each run)
+outputs/*.png
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

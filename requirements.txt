@@ -1,0 +1,7 @@
+pandas
+requests
+matplotlib
+isodate
+openpyxl
+google-api-python-client
+python-dotenv
